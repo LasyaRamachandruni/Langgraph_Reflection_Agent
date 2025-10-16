@@ -578,7 +578,7 @@ This project wouldn't exist without:
 
 **Lasya Ramachandruni**  
 GitHub: [@LasyaRamachandruni](https://github.com/LasyaRamachandruni)  
-Project: [twitter-ai-agent](https://github.com/LasyaRamachandruni/twitter-ai-agent)
+Project: Langgraph_Reflection_Agent
 
 Questions? Ideas? Just want to chat about AI agents? Feel free to open an issue or reach out!
 
