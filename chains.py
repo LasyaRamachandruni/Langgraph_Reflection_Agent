@@ -9,7 +9,7 @@ import os
 
 load_dotenv()
 assert "GOOGLE_API_KEY" in os.environ, "GOOGLE_API_KEY not loaded from .env!"
-print("GOOGLE_API_KEY loaded:", os.environ.get("GOOGLE_API_KEY"))
+print("GOOGLE_API_KEY loaded.")
 
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-pro")
