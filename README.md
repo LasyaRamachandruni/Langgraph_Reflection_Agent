@@ -131,7 +131,7 @@ source .venv/bin/activate
 
 **3. Install dependencies:**
 ```bash
-pip install langchain langgraph langchain-google-genai langchain-openai python-dotenv pydantic
+pip install -r requirements.txt
 ```
 
 **Quick note on packages:**
