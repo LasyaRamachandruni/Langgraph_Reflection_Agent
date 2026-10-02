@@ -1,6 +1,7 @@
-﻿python-dotenv
-pydantic
-langchain
-langchain-core
-langchain-google-genai
-langgraph
+# LangGraph 0.x API (MessageGraph) is used, so stay below 1.0
+langchain>=0.2,<1.0
+langchain-core>=0.2,<1.0
+langgraph>=0.2,<1.0
+langchain-google-genai>=2.0,<3.0
+pydantic>=2.7
+python-dotenv>=1.0
