@@ -1,3 +1,5 @@
+> **Moved:** this project now lives in [Agent-Eval-Harness](https://github.com/LasyaRamachandruni/Agent-Eval-Harness). Its generate, critique and revise loop now runs as the `reflection` strategy of the harness (`agent-eval run --strategy reflection`), on its own model interface instead of LangChain, with Anthropic, OpenAI and Ollama models, native tool calling, and benchmarks (HotpotQA, HumanEval) to measure it. This repository is kept for reference and is no longer developed.
+
 # AI Twitter Assistant with Multi-Agent Reflection 🤖
 
 <div align="center">
